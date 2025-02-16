@@ -10,5 +10,3 @@ Dilisensikan di bawah [MIT License](LICENSE).
 ⭐ Dukung kami dengan memberikan star di repositori ini!  
 🐛 Laporkan bug via [Issues](https://github.com/branpedia/Bran-Sewabot/issues)  
 📧 Kontak: [branftkimmy6@gmail.com](mailto:branftkimmy6@gmail.com)
-```
-
